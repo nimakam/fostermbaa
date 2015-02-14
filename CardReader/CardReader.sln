@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardReaderApp", "CardReaderApp\CardReaderApp.csproj", "{A3AA790F-0032-4522-81C1-ACC0472E6B8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardReaderConsoleApplication", "ConsoleApplication1\CardReaderConsoleApplication.csproj", "{01DA1845-61A7-4F56-A652-39D68881CFF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardReader.UnitTests", "CardReader.UnitTests\CardReader.UnitTests.csproj", "{C9EAB047-51B7-4E9A-8DAE-12FB1F4364EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardReaderLibrary", "cardReaderLibrary\CardReaderLibrary.csproj", "{D9C181D1-1074-4FAB-9295-27A008C5E859}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://nkamoosi.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CardReaderApp\\CardReaderApp.csproj
+		SccProjectName1 = CardReaderApp
+		SccLocalPath1 = CardReaderApp
+		SccProjectUniqueName2 = CardReader.UnitTests\\CardReader.UnitTests.csproj
+		SccProjectName2 = CardReader.UnitTests
+		SccLocalPath2 = CardReader.UnitTests
+		SccProjectUniqueName3 = cardReaderLibrary\\CardReaderLibrary.csproj
+		SccProjectName3 = cardReaderLibrary
+		SccLocalPath3 = cardReaderLibrary
+		SccProjectUniqueName4 = ConsoleApplication1\\CardReaderConsoleApplication.csproj
+		SccProjectName4 = ConsoleApplication1
+		SccLocalPath4 = ConsoleApplication1
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3AA790F-0032-4522-81C1-ACC0472E6B8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3AA790F-0032-4522-81C1-ACC0472E6B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3AA790F-0032-4522-81C1-ACC0472E6B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3AA790F-0032-4522-81C1-ACC0472E6B8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01DA1845-61A7-4F56-A652-39D68881CFF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01DA1845-61A7-4F56-A652-39D68881CFF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01DA1845-61A7-4F56-A652-39D68881CFF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01DA1845-61A7-4F56-A652-39D68881CFF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9EAB047-51B7-4E9A-8DAE-12FB1F4364EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9EAB047-51B7-4E9A-8DAE-12FB1F4364EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9EAB047-51B7-4E9A-8DAE-12FB1F4364EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9EAB047-51B7-4E9A-8DAE-12FB1F4364EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9C181D1-1074-4FAB-9295-27A008C5E859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C181D1-1074-4FAB-9295-27A008C5E859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C181D1-1074-4FAB-9295-27A008C5E859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C181D1-1074-4FAB-9295-27A008C5E859}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
