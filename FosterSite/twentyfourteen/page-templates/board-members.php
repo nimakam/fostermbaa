@@ -44,7 +44,7 @@ get_header(); ?>
         </div>
         <div id="board-member-right" style="padding-top: 34px; width: 800px;">
           <div style="font-size: 24px; font-weight: 900; margin-bottom: 15px; line-height: 1;">Adam Rubens, President</div>
-          <div>Adam Rubens is a member of the Foster Evening MBA Class of 2015. He completed his undergraduate degree in Communications from the University of Washington in 2005. Adam is CEO of Media West Marketing in Bellevue, where he sells multi-platform advertising for brands like Better Homes and Gardens, Family Circle, AllRecipes.com, and many more. Adam has a background in market research and multimedia, but his passion is in connecting people and organizations within his community. He volunteers for a wide range of local causes including the Woodland Park Zoo and Foster’s own Consulting and Business Development Center and in his spare time he enjoys sporting events, traveling, and dreaming up the next big thing.</div>
+          <div>Adam Rubens is a member of the Foster Evening MBA Class of 2015. He completed his undergraduate degree in Communications from the University of Washington in 2005. Adam is CEO of Media West Marketing in Bellevue, where he sells multi-platform advertising for brands like Better Homes and Gardens, Family Circle, AllRecipes.com, and many more. Adam has a background in market research and multimedia, but his passion is in connecting people and organizations within his community. He volunteers for a wide range of local causes including the Woodland Park Zoo and Foster’s own Consulting and Business Development Center and in his spare time he enjoys sporting events, traveling, and dreaming up the next big thing..</div>
         </div>
       </div>
     
